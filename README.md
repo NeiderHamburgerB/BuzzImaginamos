@@ -23,7 +23,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 ## Database
-La base de datos fue desplegada en aws rds
+La base de datos fue desplegada en aws rds (estara disponible por 7 dias)
 
 ## Documentation with swagger
 
